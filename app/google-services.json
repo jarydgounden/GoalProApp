@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "398340289878",
+    "firebase_url": "https://goalproapp-58e0f.firebaseio.com",
+    "project_id": "goalproapp-58e0f",
+    "storage_bucket": "goalproapp-58e0f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:398340289878:android:76d8757aa37e42b6bcd2f7",
+        "android_client_info": {
+          "package_name": "com.xbcad.goalpro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "398340289878-4nv64gpndgt2mp2c9id2fg1dg7fslvjo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.xbcad.goalpro",
+            "certificate_hash": "fed2236e578321d77562f97b8090ead62c4ce1a4"
+          }
+        },
+        {
+          "client_id": "398340289878-tv9n74ai1ndhk47ud3fdke2p6jkofame.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB3Rsx7p7EnLvDE8h7dltPFxfNf9KLWqaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "398340289878-tv9n74ai1ndhk47ud3fdke2p6jkofame.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
